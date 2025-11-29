@@ -18,6 +18,7 @@ Tools: Jupyter Notebook, Git, MySQL, Power Query
 Soft Skills: Communication, Data Storytelling, Presentation Skills
 
 📁 My Data Analytics Portfolio
+
 🔹 SQL Projects
 
 End-to-end SQL analysis using joins, window functions, and business insights.
