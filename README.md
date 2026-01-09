@@ -1,11 +1,11 @@
-👋 Hi, I’m Ann B Mariyam
+Hi, I’m Ann B Mariyam
 
-🎓 Graduate student in Data Analytics
-💼 Aspiring Data Analyst / Business Analyst / BI Analyst
-📍 Based in the United States
-💡 Passionate about SQL, Python, Power BI, and turning raw data into meaningful insights.
+ Graduate student in Data Analytics
+ Aspiring Data Analyst / Business Analyst / BI Analyst
+ Based in the United States
+ Passionate about SQL, Python, Power BI, and turning raw data into meaningful insights.
 
-📊 Technical Skills
+ Technical Skills
 
 Programming: Python (Pandas, NumPy), SQL
 
@@ -17,7 +17,7 @@ Tools: Jupyter Notebook, Git, MySQL, Power Query
 
 Soft Skills: Communication, Data Storytelling, Presentation Skills
 
-📁 My Data Analytics Portfolio
+ My Data Analytics Portfolio
 
 🔹 SQL Projects
 
@@ -31,15 +31,10 @@ Exploratory data analysis using Pandas, Matplotlib, and Seaborn.
 
 Interactive dashboards with KPIs, DAX measures, and real-world datasets.
 
-🌱 Currently Working On
+🔹Sales-Revenue-Analytics 
+End-to-end data analytics workflow, including data extraction, transformation, exploratory data analysis (EDA), visualization, and business decision-making.
 
-Improving my SQL (joins + window functions)
-
-Building 3 portfolio projects
-
-Preparing for data analyst job applications
-
-📫 Connect with Me
+ Connect with Me
 
 📧 Email: annbijumariyam02@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/ann-b-mariyam-a238a7275/
