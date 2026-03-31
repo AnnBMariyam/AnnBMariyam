@@ -10,7 +10,7 @@ Programming: Python (Pandas, NumPy), SQL
 
 Visualization: Power BI, Excel
 
-Analytics: Statistics, A/B Testing, EDA
+Analytics: Exploratory Data Analysis (EDA), Statistics, A/B Testing
 
 Tools: Jupyter Notebook, Git, MySQL, Power Query
 
