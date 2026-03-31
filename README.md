@@ -1,9 +1,8 @@
 Hi, I’m Ann B Mariyam
 
- Graduate student in Data Analytics
- Aspiring Data Analyst / Business Analyst / BI Analyst
- Based in the United States
- Passionate about SQL, Python, Power BI, and turning raw data into meaningful insights.
+I’m a graduate student in Data Analytics based in the United States, aspiring to work as a Data Analyst / Business Analyst / BI Analyst.
+
+I enjoy working with data, from cleaning and analyzing it to building dashboards that help make better business decisions. I’m especially interested in using SQL, Python, and Power BI to turn raw data into meaningful insights.
 
  Technical Skills
 
