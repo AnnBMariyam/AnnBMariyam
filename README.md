@@ -1,4 +1,4 @@
-# Hi, I'm Ann B Mariyam 👋
+# Hi, I'm Ann Biju Mariyam 👋
 
 **Data Analyst | MS Data Analytics @ University of Illinois Springfield (GPA: 3.95)**
 📍 Springfield, Illinois | 📧 annbijumariyam02@gmail.com | [LinkedIn](https://www.linkedin.com/in/ann-b-mariyam-a238a7275/)
